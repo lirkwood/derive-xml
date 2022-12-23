@@ -1,3 +1,3 @@
-# easyxml
+# derive-xml
 
-A derivable trait for reading and writing rust objects with xml.
+Provides derivable trait for easily reading and writing rust objects with xml.
